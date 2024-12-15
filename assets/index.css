@@ -1,0 +1,11 @@
+body {
+    color:rgba(244, 244, 244, 0.975);
+    background:rgb(42, 42, 42);
+    font-size:1.5rem;
+    text-align:center;
+    margin-top:30vh;
+}
+
+input {
+    font-size:1.5rem;
+}
